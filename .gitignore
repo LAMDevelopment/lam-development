@@ -1,0 +1,6 @@
+/vendor
+/node_modules
+/storage
+/nbproject
+.env
+.php_cs.cache
